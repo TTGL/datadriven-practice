@@ -94,7 +94,8 @@
       "columns": [
         {
           "name": "sale_id",
-          "type": "UUID"
+          "type": "UUID",
+          "key": "pk"
         },
         {
           "name": "product_id",

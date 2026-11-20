@@ -42,7 +42,7 @@ erDiagram
         VARCHAR name
     }
     sales {
-        UUID sale_id
+        UUID sale_id PK
         UUID product_id FK
         INT amount
         DECIMAL cost

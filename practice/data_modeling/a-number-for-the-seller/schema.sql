@@ -36,7 +36,8 @@ CREATE TABLE sales (
     amount INT,
     cost DECIMAL,
     created_at TIMESTAMP,
-    updated_at TIMESTAMP
+    updated_at TIMESTAMP,
+    PRIMARY KEY (sale_id)
 );
 
 ALTER TABLE products
