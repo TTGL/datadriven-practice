@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Listeners](./practice/python/the-listeners) | Python | Medium | 2026-11-19 |
 | [Batch Records](./practice/python/batch-records) | Python | Easy | 2026-11-19 |
 | [Days with More Edited Than Unedited Messages](./practice/sql/days-with-more-edited-than-unedited-messages) | SQL | Medium | 2026-11-19 |
 | [CDN Traffic by Day and Hour](./practice/sql/cdn-traffic-by-day-and-hour) | SQL | Medium | 2026-11-18 |
