@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Duo](./practice/sql/active-duo) | SQL | Medium | 2026-11-15 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-11-15 |
 
 <!-- datadriven:index:end -->
