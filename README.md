@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Absent Without Leave](./practice/python/absent-without-leave) | Python | Medium | 2026-11-20 |
 | [Carry the One](./practice/python/carry-the-one) | Python | Medium | 2026-11-20 |
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-11-20 |
 | [The Listeners](./practice/python/the-listeners) | Python | Medium | 2026-11-19 |
