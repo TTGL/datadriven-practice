@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Days with More Edited Than Unedited Messages](./practice/sql/days-with-more-edited-than-unedited-messages) | SQL | Medium | 2026-11-19 |
 | [CDN Traffic by Day and Hour](./practice/sql/cdn-traffic-by-day-and-hour) | SQL | Medium | 2026-11-18 |
 | [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-11-18 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-11-18 |
