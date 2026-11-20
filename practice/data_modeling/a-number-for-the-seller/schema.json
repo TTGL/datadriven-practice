@@ -1,0 +1,177 @@
+{
+  "tables": [
+    {
+      "name": "sellers",
+      "columns": [
+        {
+          "name": "seller_id",
+          "type": "UUID",
+          "key": "pk"
+        },
+        {
+          "name": "email",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "name",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "status_id",
+          "type": "UUID",
+          "key": "fk"
+        },
+        {
+          "name": "created_at",
+          "type": "TIMESTAMP"
+        },
+        {
+          "name": "updated_at",
+          "type": "TIMESTAMP"
+        }
+      ]
+    },
+    {
+      "name": "products",
+      "columns": [
+        {
+          "name": "product_id",
+          "type": "UUID",
+          "key": "pk"
+        },
+        {
+          "name": "product_name",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "seller_id",
+          "type": "UUID",
+          "key": "fk"
+        },
+        {
+          "name": "status_id",
+          "type": "UUID",
+          "key": "fk"
+        },
+        {
+          "name": "created_at"
+        },
+        {
+          "name": "updated_at"
+        }
+      ]
+    },
+    {
+      "name": "product_status",
+      "columns": [
+        {
+          "name": "status_id",
+          "type": "UUID",
+          "key": "pk"
+        },
+        {
+          "name": "name",
+          "type": "VARCHAR"
+        }
+      ]
+    },
+    {
+      "name": "seller_status",
+      "columns": [
+        {
+          "name": "status_id",
+          "type": "UUID",
+          "key": "pk"
+        },
+        {
+          "name": "name",
+          "type": "VARCHAR"
+        }
+      ]
+    },
+    {
+      "name": "sales",
+      "columns": [
+        {
+          "name": "sale_id",
+          "type": "UUID"
+        },
+        {
+          "name": "product_id",
+          "type": "UUID",
+          "key": "fk"
+        },
+        {
+          "name": "amount",
+          "type": "INT"
+        },
+        {
+          "name": "cost",
+          "type": "DECIMAL"
+        },
+        {
+          "name": "created_at",
+          "type": "TIMESTAMP"
+        },
+        {
+          "name": "updated_at",
+          "type": "TIMESTAMP"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": {
+        "table": "products",
+        "column": "seller_id",
+        "cardinality": "zeroOrMany"
+      },
+      "to": {
+        "table": "sellers",
+        "column": "seller_id",
+        "cardinality": "exactlyOne"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "sellers",
+        "column": "status_id",
+        "cardinality": "zeroOrMany"
+      },
+      "to": {
+        "table": "seller_status",
+        "column": "status_id",
+        "cardinality": "exactlyOne"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "products",
+        "column": "status_id",
+        "cardinality": "zeroOrMany"
+      },
+      "to": {
+        "table": "product_status",
+        "column": "status_id",
+        "cardinality": "exactlyOne"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "sales",
+        "column": "product_id",
+        "cardinality": "zeroOrMany"
+      },
+      "to": {
+        "table": "products",
+        "column": "product_id",
+        "cardinality": "exactlyOne"
+      },
+      "foreign_key": true
+    }
+  ]
+}
