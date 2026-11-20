@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-11-18 |
 | [What the Card Remembers](./practice/python/what-the-card-remembers) | Python | Medium | 2026-11-18 |
 | [Power Users](./practice/sql/power-users) | SQL | Medium | 2026-11-18 |
 | [Both Ways](./practice/sql/both-ways) | SQL | Hard | 2026-11-15 |
