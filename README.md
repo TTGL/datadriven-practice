@@ -13,7 +13,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 | [Carry the One](./practice/python/carry-the-one) | Python | Medium | 2026-11-20 |
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-11-20 |
 | [The Listeners](./practice/python/the-listeners) | Python | Medium | 2026-11-19 |
-| [Batch Records](./practice/python/batch-records) | Python | Easy | 2026-11-19 |
+| [Batch Records](./practice/python/batch-records) | Python | Medium | 2026-11-19 |
 | [Days with More Edited Than Unedited Messages](./practice/sql/days-with-more-edited-than-unedited-messages) | SQL | Medium | 2026-11-19 |
 | [CDN Traffic by Day and Hour](./practice/sql/cdn-traffic-by-day-and-hour) | SQL | Medium | 2026-11-18 |
 | [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-11-18 |
