@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-11-22 |
 | [Top-Heavy](./practice/python/top-heavy) | Python | Medium | 2026-11-22 |
 | [Hands Apart](./practice/python/hands-apart) | Python | Easy | 2026-11-21 |
 | [Q by Q](./practice/sql/q-by-q) | SQL | Easy | 2026-11-21 |
