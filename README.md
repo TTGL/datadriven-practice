@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top-Heavy](./practice/python/top-heavy) | Python | Medium | 2026-11-22 |
 | [Hands Apart](./practice/python/hands-apart) | Python | Easy | 2026-11-21 |
 | [Q by Q](./practice/sql/q-by-q) | SQL | Easy | 2026-11-21 |
 | [A Number for the Seller](./practice/data_modeling/a-number-for-the-seller) | Data Modeling | Easy | 2026-11-20 |
