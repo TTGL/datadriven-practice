@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Closing Bell](./practice/python/closing-bell) | Python | Medium | 2026-11-24 |
 | [Three That Hold](./practice/python/three-that-hold) | Python | Medium | 2026-11-23 |
 | [Top Product Categories](./practice/sql/top-product-categories) | SQL | Easy | 2026-11-23 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-11-22 |
