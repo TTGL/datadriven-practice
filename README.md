@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Chunked Reader](./practice/python/the-chunked-reader) | Python | Medium | 2026-11-25 |
 | [Biggest Deployment Decline](./practice/sql/biggest-deployment-decline) | SQL | Medium | 2026-11-24 |
 | [Closing Bell](./practice/python/closing-bell) | Python | Medium | 2026-11-24 |
 | [Three That Hold](./practice/python/three-that-hold) | Python | Medium | 2026-11-23 |
