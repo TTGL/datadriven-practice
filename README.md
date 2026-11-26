@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Dictionary Key Intersection](./practice/python/dictionary-key-intersection) | Python | Medium | 2026-11-26 |
 | [The Lion's Share](./practice/sql/the-lion-s-share) | SQL | Medium | 2026-11-25 |
 | [The Chunked Reader](./practice/python/the-chunked-reader) | Python | Medium | 2026-11-25 |
 | [Biggest Deployment Decline](./practice/sql/biggest-deployment-decline) | SQL | Medium | 2026-11-24 |
