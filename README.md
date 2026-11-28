@@ -9,7 +9,7 @@ Scored work from [DataDriven](https://datadriven.io/u/articulo_m0rtis), committe
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
 | [The Trapped Pool](./practice/python/the-trapped-pool) | Python | Hard | 2026-11-27 |
-| [Only Here](./practice/sql/only-here) | SQL | Hard | 2026-11-27 |
+| [Only Here](./practice/sql/only-here) | SQL | Easy | 2026-11-27 |
 | [Where the Data Breaks](./practice/sql/where-the-data-breaks) | SQL | Medium | 2026-11-26 |
 | [Dictionary Key Intersection](./practice/python/dictionary-key-intersection) | Python | Medium | 2026-11-26 |
 | [The Lion's Share](./practice/sql/the-lion-s-share) | SQL | Medium | 2026-11-25 |
